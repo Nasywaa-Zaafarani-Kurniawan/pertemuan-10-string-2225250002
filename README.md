@@ -3,7 +3,7 @@
 ---
 
 ## Tujuan Repositori
-Repositori ini dibuat untuk memenuhi tugas praktikum Pertemuan 9 mata kuliah Algoritma dan Pemrograman. Repositori ini berfokus pada pengolahan string, manipulasi teks, serta penerapan fungsi untuk melakukan normalisasi data mahasiswa dan kode kelas di Python.
+Repositori ini dibuat untuk memenuhi tugas praktikum Pertemuan 10 mata kuliah Algoritma dan Pemrograman. Repositori ini berfokus pada pengolahan string, manipulasi teks, serta penerapan fungsi untuk melakukan normalisasi data mahasiswa dan kode kelas di Python.
 
 ---
 
